@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mithun B S</h1>
 <h3 align="center">A passionate web developer</h3>
-<img  align="right" alt="coding" src="https://cdn.dribbble.com/users/1876781/screenshots/6169542/web_character.gif">
+<img  align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1876781/screenshots/6169542/web_character.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mithun7899&label=Profile%20views&color=0e75b6&style=flat" alt="mithun7899" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mithun7899" alt="mithun7899" /></a> </p>
