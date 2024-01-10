@@ -1,4 +1,4 @@
-<img src="https://solutions.paruto.io/wp-content/uploads/2018/02/Software-Development-Banner-1.jpg" width="100">
+<img src="https://solutions.paruto.io/wp-content/uploads/2018/02/Software-Development-Banner-1.jpg" width="2000">
 <h1 align="center">Hi 👋, I'm Mithun B S</h1>
 <h3 align="center">A passionate web developer</h3>
 <img  align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1876781/screenshots/6169542/web_character.gif">
