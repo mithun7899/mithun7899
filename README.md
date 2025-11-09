@@ -1,6 +1,6 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_Wzv5JFXnfGcI7Wl_SlcIKDkmOTJrdtaAoQ&s" width="2000">
 <h1 align="center">Hi 👋, I'm Mithun B S</h1>
-<h3 align="center">A passionate web developer</h3>
+<h3 align="center">A passionate cloud and Devops Engineer</h3>
 <img  align="center" alt="coding" width="800" src="https://miro.medium.com/v2/resize:fit:1400/1*yw0TnheAGN-LPneDaTlaxw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mithun7899&label=Profile%20views&color=0e75b6&style=flat" alt="mithun7899" /> </p>
 
