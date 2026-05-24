@@ -4,6 +4,9 @@
 
 I am a results-driven Computer Science graduate with hands-on experience as a **Data Analyst Apprentice in the Banking Domain**. Skilled in **Advanced Excel, Power BI, MySQL, Python, and Oracle FLEXCUBE**, with experience in **dashboard development, MIS reporting, workflow automation, and data analysis**. Passionate about transforming data into actionable insights and solving business problems using analytics.
 
+
+<img align="right" alt="coding" width="350" 
+src="https://cdn.dribbble.com/users/...gif">
 ---
 
 ## 🚀 About Me
