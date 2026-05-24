@@ -17,8 +17,7 @@ I am a results-driven Computer Science graduate with hands-on experience as a **
 - ☁️ Knowledge in **AWS Cloud (EC2, S3, IAM)** and deployment
 - 🌱 Currently improving skills in **Data Analytics & Business Intelligence**
 
-<img align="right" alt="coding" width="350" 
-src="https://images.openai.com/static-rsc-4/kytRC56moD6GEGvOUP4hl5Hnk2TE8uYMta3h0OD-l1azaNiAWFYCqVyettBGCtMSUkjjY3qvJl9UDc4NQ2WpM8u5qdibcwEXScjfsGWZxJbBcmNkpXXzV4jRXNYs458iCrtok7JuNeIJujUuRKphriK6LFwkvWFEOJRz-mZZeYpicemepIdOzHFuf4onbt98?purpose=fullsize">
+
 
 ---
 
