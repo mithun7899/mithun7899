@@ -5,8 +5,7 @@
 I am a results-driven Computer Science graduate with hands-on experience as a **Data Analyst Apprentice in the Banking Domain**. Skilled in **Advanced Excel, Power BI, MySQL, Python, and Oracle FLEXCUBE**, with experience in **dashboard development, MIS reporting, workflow automation, and data analysis**. Passionate about transforming data into actionable insights and solving business problems using analytics.
 
 
-<img align="right" alt="coding" width="350" 
-src="https://images.openai.com/static-rsc-4/kytRC56moD6GEGvOUP4hl5Hnk2TE8uYMta3h0OD-l1azaNiAWFYCqVyettBGCtMSUkjjY3qvJl9UDc4NQ2WpM8u5qdibcwEXScjfsGWZxJbBcmNkpXXzV4jRXNYs458iCrtok7JuNeIJujUuRKphriK6LFwkvWFEOJRz-mZZeYpicemepIdOzHFuf4onbt98?purpose=fullsize">
+
 ---
 
 ## 🚀 About Me
@@ -17,6 +16,9 @@ src="https://images.openai.com/static-rsc-4/kytRC56moD6GEGvOUP4hl5Hnk2TE8uYMta3h
 - 🤖 Interested in **Data Analytics, Machine Learning & AI**
 - ☁️ Knowledge in **AWS Cloud (EC2, S3, IAM)** and deployment
 - 🌱 Currently improving skills in **Data Analytics & Business Intelligence**
+
+<img align="right" alt="coding" width="350" 
+src="https://images.openai.com/static-rsc-4/kytRC56moD6GEGvOUP4hl5Hnk2TE8uYMta3h0OD-l1azaNiAWFYCqVyettBGCtMSUkjjY3qvJl9UDc4NQ2WpM8u5qdibcwEXScjfsGWZxJbBcmNkpXXzV4jRXNYs458iCrtok7JuNeIJujUuRKphriK6LFwkvWFEOJRz-mZZeYpicemepIdOzHFuf4onbt98?purpose=fullsize">
 
 ---
 
