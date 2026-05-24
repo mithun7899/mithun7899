@@ -6,7 +6,7 @@ I am a results-driven Computer Science graduate with hands-on experience as a **
 
 
 <img align="right" alt="coding" width="350" 
-src="https://cdn.dribbble.com/users/...gif">
+src="https://images.openai.com/static-rsc-4/kytRC56moD6GEGvOUP4hl5Hnk2TE8uYMta3h0OD-l1azaNiAWFYCqVyettBGCtMSUkjjY3qvJl9UDc4NQ2WpM8u5qdibcwEXScjfsGWZxJbBcmNkpXXzV4jRXNYs458iCrtok7JuNeIJujUuRKphriK6LFwkvWFEOJRz-mZZeYpicemepIdOzHFuf4onbt98?purpose=fullsize">
 ---
 
 ## 🚀 About Me
