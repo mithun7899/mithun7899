@@ -27,7 +27,8 @@ I am a results-driven Computer Science graduate with hands-on experience as a **
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
+
+
 </p>
 
 ### Data Analytics & Visualization
@@ -40,13 +41,17 @@ I am a results-driven Computer Science graduate with hands-on experience as a **
 
 ### Databases
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSJxyQxOO2_vOJSgxqHVO3gRkLlWDoJghBBhvfm1mlJg&s=10" width="45" height="45"/>
 </p>
 
 ### Web Technologies
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
+<img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRk8e9Wo16cFcw-tG64yBkn09A-LrK8IRV9xDIzduO5g&s=10" width="45 height="45"/>
+  <img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZsAcWEYRxmvsmLxb_8htk7cfigq8G9SkhxUSzo1aoKw&s=10" width="45 height="45"/>
+
 </p>
 
 ### Cloud & Tools
